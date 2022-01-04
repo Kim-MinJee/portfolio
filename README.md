@@ -16,14 +16,14 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [Bunddeuk](링크걸기)
+### 1. [Bunddeuk](http://3.37.218.252:8080/)
 >크라우드 펀딩 사이트 (팀 프로젝트)  
 >개발 기간: 2021.11.15 ~ 2021.12.15
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Maven / MyBatis / MySQL
 >  
->[프로젝트 상세 설명](링크걸기) 참고
+>[프로젝트 상세 설명](https://github.com/jeejee1106/FinalProject_update#readme) 참고
 
 ---
 

@@ -44,7 +44,5 @@
 >  
 >기술 스택:  
 >Java 11 / Spring Boot 2.5 / Maven / MyBatis / MySQL 8 / JQuery
->  
->[프로젝트 상세 설명](링크걸기) 참고
 
 ---

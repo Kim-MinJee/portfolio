@@ -28,14 +28,3 @@
 >Git / AWS EC2  
 >
 ><b>[프로젝트 상세 설명](https://github.com/jeejee1106/FinalProject_Bunddeuk#readme)</b> 참고
-
----
-
-### 2. Yagueoddae
->야구장 좌석의 View를 확인할 수 있는 서비스  (개인 프로젝트)  
->개발 기간: 2021.12.30 ~ 2022.02 (진행 중)  
->  
->기술 스택:  
->Java 11 / Spring Boot 2.5 / Maven / MyBatis / MySQL 8 / JQuery
-
----
